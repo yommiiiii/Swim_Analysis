@@ -20,7 +20,7 @@ pip install matplotlib
 
 준비가 완료되었다면 프로그램이 있는 폴더 터미널에서 아래 명령어를 실행합니다.
 ```bash
-python3 swimming.py
+python3 analysis.py
 ```
 
 ### 💡 주요 기능 및 흐름
